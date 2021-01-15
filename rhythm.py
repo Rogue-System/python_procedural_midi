@@ -1,4 +1,5 @@
 from midi import MidiConnector
+import NumPy
 
 serial_path = input("Please specify a serial input (i.e. serial0): ")
 
@@ -21,4 +22,3 @@ class dorian
     pass
 class locrian
     pass
-    
